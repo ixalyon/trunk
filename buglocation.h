@@ -1,0 +1,5 @@
+#ifndef BUGLOCATION
+#define BUGLOCATION
+
+#endif // BUGLOCATION
+
